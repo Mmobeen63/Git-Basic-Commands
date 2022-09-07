@@ -4,3 +4,10 @@ body{
 h2{
     color: whitesmoke;
 }
+.insertButton{
+    color:whitesmoke;
+    background-color: rgb(183, 9, 9);
+    padding: 05px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
